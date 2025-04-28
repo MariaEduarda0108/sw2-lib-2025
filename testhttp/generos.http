@@ -1,0 +1,3 @@
+@url = localhost:3000/https://crispy-garbanzo-69wv7r4rrpxjcxr4x-3000.app.github.dev/
+
+GET{{url}}/api/v1/generos
